@@ -1,6 +1,6 @@
 {
 "companyName": "Vobling",
-"productName": "AlfaLavalWebGL",
+"productName": "AlfaLaval",
 "productVersion": "0.1",
 "dataUrl": "alfalaval-webgl.data.unityweb",
 "wasmCodeUrl": "alfalaval-webgl.wasm.code.unityweb",
